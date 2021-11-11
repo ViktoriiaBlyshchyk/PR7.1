@@ -1,0 +1,2 @@
+﻿  UnitTest1.cpp
+C:\Student\PR7.1\UnitTest1\UnitTest1.cpp(16): error C4700: использована неинициализированная локальная переменная "S"
